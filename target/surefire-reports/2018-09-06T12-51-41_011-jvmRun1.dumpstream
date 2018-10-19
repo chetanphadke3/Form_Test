@@ -1,0 +1,29 @@
+# Created at 2018-09-06T12:54:11.093
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-09-06T12:54:13.477
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/events/webinars/international-vat-for-dummies-understanding-registration-requirements/
+
+
+# Created at 2018-09-06T12:54:18.885
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/events/webinars/international-vat-for-dummies-filing-and-compliance/
+
+
+# Created at 2018-09-06T12:54:23.240
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/events/webinars/selling-b2b-in-the-united-states/
+
+
+# Created at 2018-09-06T12:54:23.625
+Unexpected IOException: 8,1,testcases.Test1,firstRun(testcases.Test1),null,Remote browser did not respond to getCurrentUrl\000ABuild info: version: '3.5.1'\002C revision: '9c21bb67ef'\002C time: '2017-08-17T15:26:08.955Z'\000ASystem info: host: 'AV-PN-PHADKEC'\002C ip: '10.240.40.71'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: driver.version: RemoteWebDriver,null,Remote browser did not respond to getCurrentUrl\000ABuild info: version: '3.5.1'\002C revision: '9c21bb67ef'\002C time: '2017-08-17T15:26:08.955Z'\000ASystem info: host: 'AV-PN-PHADKEC'\002C ip: '10.240.40.71'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: driver.version: RemoteWebDriver,Test1.firstRun:32 \00BB WebDriver Remote browser did not respond to getCurrentUrl\000A...,org.openqa.selenium.WebDriverException: \000ARemote browser did not respond to getCurrentUrl\000ABuild info: version: '3.5.1'\002C revision: '9c21bb67ef'\002C time: '2017-08-17T15:26:08.955Z'\000ASystem info: host: 'AV-PN-PHADKEC'\002C ip: '10.240.40.71'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: driver.version: RemoteWebDriver\000A\0009at testcases.Test1.firstRun(Test1.java:32)\000A
+
+
+# Created at 2018-09-06T12:54:23.865
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

@@ -1,0 +1,287 @@
+# Created at 2018-09-08T12:06:34.940
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-09-08T12:06:37.731
+Unexpected IOException with stream: ------------Test Case3------------
+
+
+# Created at 2018-09-08T12:06:37.787
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/seminar/international-indirect-tax-summit-2018/
+
+
+# Created at 2018-09-08T12:06:37.792
+Unexpected IOException with stream: Avaform version is3.37.1
+
+
+# Created at 2018-09-08T12:06:37.845
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-09-08T12:06:37.950
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-09-08T12:06:38.012
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-09-08T12:06:38.113
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-09-08T12:06:38.172
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-09-08T12:06:38.241
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-09-08T12:06:38.307
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-09-08T12:06:38.413
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-09-08T12:06:41.327
+Unexpected IOException with stream: ------------Test Case4------------
+
+
+# Created at 2018-09-08T12:06:43.346
+Unexpected IOException with stream: [
+
+# Created at 2018-09-08T12:06:43.358
+Unexpected IOException with stream: 1
+
+# Created at 2018-09-08T12:06:43.370
+Unexpected IOException with stream: 5
+
+# Created at 2018-09-08T12:06:43.382
+Unexpected IOException with stream: 3
+
+# Created at 2018-09-08T12:06:43.396
+Unexpected IOException with stream: 6
+
+# Created at 2018-09-08T12:06:43.408
+Unexpected IOException with stream: 3
+
+# Created at 2018-09-08T12:06:43.419
+Unexpected IOException with stream: 8
+
+# Created at 2018-09-08T12:06:43.431
+Unexpected IOException with stream: 8
+
+# Created at 2018-09-08T12:06:43.444
+Unexpected IOException with stream: 6
+
+# Created at 2018-09-08T12:06:43.455
+Unexpected IOException with stream: 0
+
+# Created at 2018-09-08T12:06:43.468
+Unexpected IOException with stream: 3
+
+# Created at 2018-09-08T12:06:43.481
+Unexpected IOException with stream: .
+
+# Created at 2018-09-08T12:06:43.494
+Unexpected IOException with stream: 3
+
+# Created at 2018-09-08T12:06:43.507
+Unexpected IOException with stream: 4
+
+# Created at 2018-09-08T12:06:43.520
+Unexpected IOException with stream: 5
+
+# Created at 2018-09-08T12:06:43.533
+Unexpected IOException with stream: ]
+
+# Created at 2018-09-08T12:06:43.545
+Unexpected IOException with stream: [
+
+# Created at 2018-09-08T12:06:43.559
+Unexpected IOException with stream: W
+
+# Created at 2018-09-08T12:06:43.573
+Unexpected IOException with stream: A
+
+# Created at 2018-09-08T12:06:43.585
+Unexpected IOException with stream: R
+
+# Created at 2018-09-08T12:06:43.598
+Unexpected IOException with stream: N
+
+# Created at 2018-09-08T12:06:43.610
+Unexpected IOException with stream: I
+
+# Created at 2018-09-08T12:06:43.623
+Unexpected IOException with stream: N
+
+# Created at 2018-09-08T12:06:43.636
+Unexpected IOException with stream: G
+
+# Created at 2018-09-08T12:06:43.652
+Unexpected IOException with stream: ]
+
+# Created at 2018-09-08T12:06:43.665
+Unexpected IOException with stream: :
+
+# Created at 2018-09-08T12:06:43.736
+Unexpected IOException with stream:  
+
+# Created at 2018-09-08T12:06:43.750
+Unexpected IOException with stream: T
+
+# Created at 2018-09-08T12:06:43.762
+Unexpected IOException with stream: i
+
+# Created at 2018-09-08T12:06:43.774
+Unexpected IOException with stream: m
+
+# Created at 2018-09-08T12:06:43.786
+Unexpected IOException with stream: e
+
+# Created at 2018-09-08T12:06:43.799
+Unexpected IOException with stream: d
+
+# Created at 2018-09-08T12:06:43.812
+Unexpected IOException with stream:  
+
+# Created at 2018-09-08T12:06:43.824
+Unexpected IOException with stream: o
+
+# Created at 2018-09-08T12:06:43.836
+Unexpected IOException with stream: u
+
+# Created at 2018-09-08T12:06:43.848
+Unexpected IOException with stream: t
+
+# Created at 2018-09-08T12:06:43.860
+Unexpected IOException with stream:  
+
+# Created at 2018-09-08T12:06:43.872
+Unexpected IOException with stream: c
+
+# Created at 2018-09-08T12:06:43.885
+Unexpected IOException with stream: o
+
+# Created at 2018-09-08T12:06:43.898
+Unexpected IOException with stream: n
+
+# Created at 2018-09-08T12:06:43.911
+Unexpected IOException with stream: n
+
+# Created at 2018-09-08T12:06:43.923
+Unexpected IOException with stream: e
+
+# Created at 2018-09-08T12:06:43.936
+Unexpected IOException with stream: c
+
+# Created at 2018-09-08T12:06:43.949
+Unexpected IOException with stream: t
+
+# Created at 2018-09-08T12:06:43.962
+Unexpected IOException with stream: i
+
+# Created at 2018-09-08T12:06:43.974
+Unexpected IOException with stream: n
+
+# Created at 2018-09-08T12:06:43.986
+Unexpected IOException with stream: g
+
+# Created at 2018-09-08T12:06:43.998
+Unexpected IOException with stream:  
+
+# Created at 2018-09-08T12:06:44.011
+Unexpected IOException with stream: t
+
+# Created at 2018-09-08T12:06:44.023
+Unexpected IOException with stream: o
+
+# Created at 2018-09-08T12:06:44.035
+Unexpected IOException with stream:  
+
+# Created at 2018-09-08T12:06:44.047
+Unexpected IOException with stream: C
+
+# Created at 2018-09-08T12:06:44.058
+Unexpected IOException with stream: h
+
+# Created at 2018-09-08T12:06:44.071
+Unexpected IOException with stream: r
+
+# Created at 2018-09-08T12:06:44.083
+Unexpected IOException with stream: o
+
+# Created at 2018-09-08T12:06:44.095
+Unexpected IOException with stream: m
+
+# Created at 2018-09-08T12:06:44.108
+Unexpected IOException with stream: e
+
+# Created at 2018-09-08T12:06:44.120
+Unexpected IOException with stream: ,
+
+# Created at 2018-09-08T12:06:44.134
+Unexpected IOException with stream:  
+
+# Created at 2018-09-08T12:06:44.147
+Unexpected IOException with stream: r
+
+# Created at 2018-09-08T12:06:44.158
+Unexpected IOException with stream: e
+
+# Created at 2018-09-08T12:06:44.167
+Unexpected IOException with stream: t
+
+# Created at 2018-09-08T12:06:44.176
+Unexpected IOException with stream: r
+
+# Created at 2018-09-08T12:06:44.184
+Unexpected IOException with stream: y
+
+# Created at 2018-09-08T12:06:44.192
+Unexpected IOException with stream: i
+
+# Created at 2018-09-08T12:06:44.200
+Unexpected IOException with stream: n
+
+# Created at 2018-09-08T12:06:44.207
+Unexpected IOException with stream: g
+
+# Created at 2018-09-08T12:06:44.215
+Unexpected IOException with stream: .
+
+# Created at 2018-09-08T12:06:44.223
+Unexpected IOException with stream: .
+
+# Created at 2018-09-08T12:06:44.231
+Unexpected IOException with stream: .
+
+# Created at 2018-09-08T12:06:44.239
+Unexpected IOException with stream: 
+
+# Created at 2018-09-08T12:06:44.247
+Unexpected IOException with stream: 
+
+
+# Created at 2018-09-08T12:06:47.460
+Unexpected IOException: 8,1,testcases.Test1,firstRun(testcases.Test1),null,chrome not reachable\000A  (Session info: chrome=68.0.3440.106)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.5.1'\002C revision: '9c21bb67ef'\002C time: '2017-08-17T15:26:08.955Z'\000ASystem info: host: 'AV-PN-PHADKEC'\002C ip: '192.168.1.14'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{mobileEmulationEnabled=false\002C hasTouchScreen=false\002C platform=XP\002C acceptSslCerts=false\002C acceptInsecureCerts=false\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C setWindowRect=true\002C unexpectedAlertBehaviour=\002C applicationCacheEnabled=false\002C rotatable=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002C userDataDir=C:\005CUsers\005CCHETAN~1.PHA\005CAppData\005CLocal\005CTemp\005Cscoped_dir6860_13971}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=\002C databaseEnabled=false\002C handlesAlerts=true\002C version=68.0.3440.106\002C browserConnectionEnabled=false\002C nativeEvents=true\002C locationContextEnabled=true\002C cssSelectorsEnabled=true}]\000ASession ID: ec722365565b583f1bb66e017e9f2079,null,chrome not reachable\000A  (Session info: chrome=68.0.3440.106)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.5.1'\002C revision: '9c21bb67ef'\002C time: '2017-08-17T15:26:08.955Z'\000ASystem info: host: 'AV-PN-PHADKEC'\002C ip: '192.168.1.14'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{mobileEmulationEnabled=false\002C hasTouchScreen=false\002C platform=XP\002C acceptSslCerts=false\002C acceptInsecureCerts=false\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C setWindowRect=true\002C unexpectedAlertBehaviour=\002C applicationCacheEnabled=false\002C rotatable=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002C userDataDir=C:\005CUsers\005CCHETAN~1.PHA\005CAppData\005CLocal\005CTemp\005Cscoped_dir6860_13971}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=\002C databaseEnabled=false\002C handlesAlerts=true\002C version=68.0.3440.106\002C browserConnectionEnabled=false\002C nativeEvents=true\002C locationContextEnabled=true\002C cssSelectorsEnabled=true}]\000ASession ID: ec722365565b583f1bb66e017e9f2079,Test1.firstRun:33 \00BB WebDriver chrome not reachable\000A  (Session info: chrome=68....,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=68.0.3440.106)\000A  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002Cplatform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 0 milliseconds\000ABuild info: version: '3.5.1'\002C revision: '9c21bb67ef'\002C time: '2017-08-17T15:26:08.955Z'\000ASystem info: host: 'AV-PN-PHADKEC'\002C ip: '192.168.1.14'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_171'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities [{mobileEmulationEnabled=false\002C hasTouchScreen=false\002C platform=XP\002C acceptSslCerts=false\002C acceptInsecureCerts=false\002C webStorageEnabled=true\002C browserName=chrome\002C takesScreenshot=true\002C javascriptEnabled=true\002C setWindowRect=true\002C unexpectedAlertBehaviour=\002C applicationCacheEnabled=false\002C rotatable=false\002C networkConnectionEnabled=false\002C chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab)\002C userDataDir=C:\005CUsers\005CCHETAN~1.PHA\005CAppData\005CLocal\005CTemp\005Cscoped_dir6860_13971}\002C takesHeapSnapshot=true\002C pageLoadStrategy=normal\002C unhandledPromptBehavior=\002C databaseEnabled=false\002C handlesAlerts=true\002C version=68.0.3440.106\002C browserConnectionEnabled=false\002C nativeEvents=true\002C locationContextEnabled=true\002C cssSelectorsEnabled=true}]\000ASession ID: ec722365565b583f1bb66e017e9f2079\000A\0009at testcases.Test1.firstRun(Test1.java:33)\000A
+
+
+# Created at 2018-09-08T12:06:47.471
+Unexpected IOException with stream: Test case completed successfully!
+ Closing the browser-chrome
+
+
+# Created at 2018-09-08T12:06:48.625
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

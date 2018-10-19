@@ -1,0 +1,513 @@
+# Created at 2018-10-09T20:19:40.205
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-10-09T20:19:40.486
+Unexpected IOException with stream: ------------Test Case11------------
+
+
+# Created at 2018-10-09T20:19:40.499
+Unexpected IOException with stream: https://www.vatlive.com/events/webinars/global-expansion-and-its-vat-implications/
+
+
+# Created at 2018-10-09T20:19:40.547
+Unexpected IOException with stream: [container, template, goal_type, poi_menu, psoi_menu, lso, poi, event_identifier, offer, opp_subtype, progressive_profiling, country_label, campaign_id, lsmr, optin_type, countries, event_identifier2, contact_method, form, v, callback, button_label, ost_poi, form_name, query_string]
+
+# Created at 2018-10-09T20:19:40.553
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-09T20:19:40.561
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/webinars/global-expansion-and-its-vat-implications/
+
+
+# Created at 2018-10-09T20:19:40.567
+Unexpected IOException with stream: Avaform version is-> 3.39.0
+
+
+# Created at 2018-10-09T20:19:40.572
+Unexpected IOException with stream: Putting the form in Test mode->
+
+
+# Created at 2018-10-09T20:19:40.581
+Unexpected IOException with stream: Avaform is in test mode now.
+
+
+# Created at 2018-10-09T20:19:41.640
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-10-09T20:19:41.725
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-10-09T20:19:41.772
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-10-09T20:19:41.851
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-10-09T20:19:41.898
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-10-09T20:19:41.949
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-10-09T20:19:41.995
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-10-09T20:19:42.075
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-10-09T20:19:47.138
+Unexpected IOException with stream: ------------Test Case12------------
+
+
+# Created at 2018-10-09T20:19:47.153
+Unexpected IOException with stream: https://www.vatlive.com/events/webinars/death-of-the-vat-return/
+
+
+# Created at 2018-10-09T20:19:47.203
+Unexpected IOException with stream: [container, template, goal_type, poi_menu, psoi_menu, lso, poi, event_identifier, offer, opp_subtype, progressive_profiling, country_label, campaign_id, lsmr, optin_type, countries, event_identifier2, contact_method, form, v, callback, button_label, ost_poi, form_name, query_string]
+
+# Created at 2018-10-09T20:19:47.209
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-09T20:19:47.219
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/webinars/death-of-the-vat-return/
+
+
+# Created at 2018-10-09T20:19:47.225
+Unexpected IOException with stream: Avaform version is-> 3.39.0
+
+
+# Created at 2018-10-09T20:19:47.232
+Unexpected IOException with stream: Putting the form in Test mode->
+
+
+# Created at 2018-10-09T20:19:47.241
+Unexpected IOException with stream: Avaform is in test mode now.
+
+
+# Created at 2018-10-09T20:19:48.317
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-10-09T20:19:48.432
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-10-09T20:19:48.478
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-10-09T20:19:48.557
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-10-09T20:19:48.603
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-10-09T20:19:48.656
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-10-09T20:19:48.702
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-10-09T20:19:48.783
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-10-09T20:19:53.640
+Unexpected IOException with stream: ------------Test Case13------------
+
+
+# Created at 2018-10-09T20:19:53.653
+Unexpected IOException with stream: https://www.vatlive.com/events/webinars/how-to-achieve-your-standardisation-goals/
+
+
+# Created at 2018-10-09T20:19:53.701
+Unexpected IOException with stream: [container, template, goal_type, poi_menu, psoi_menu, lso, poi, event_identifier, offer, opp_subtype, progressive_profiling, country_label, campaign_id, lsmr, optin_type, countries, event_identifier2, contact_method, form, v, callback, button_label, ost_poi, form_name, query_string]
+
+# Created at 2018-10-09T20:19:53.709
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-09T20:19:53.719
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/webinars/how-to-achieve-your-standardisation-goals/
+
+
+# Created at 2018-10-09T20:19:53.726
+Unexpected IOException with stream: Avaform version is-> 3.39.0
+
+
+# Created at 2018-10-09T20:19:53.732
+Unexpected IOException with stream: Putting the form in Test mode->
+
+
+# Created at 2018-10-09T20:19:53.743
+Unexpected IOException with stream: Avaform is in test mode now.
+
+
+# Created at 2018-10-09T20:19:54.811
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-10-09T20:19:54.889
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-10-09T20:19:54.944
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-10-09T20:19:55.045
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-10-09T20:19:55.098
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-10-09T20:19:55.151
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-10-09T20:19:55.206
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-10-09T20:19:55.293
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-10-09T20:19:58.934
+Unexpected IOException with stream: ------------Test Case14------------
+
+
+# Created at 2018-10-09T20:19:58.962
+Unexpected IOException with stream: https://www.vatlive.com/events/webinars/a-guide-to-us-sales-tax/
+
+
+# Created at 2018-10-09T20:19:59.008
+Unexpected IOException with stream: [container, template, goal_type, poi_menu, psoi_menu, lso, poi, event_identifier, offer, opp_subtype, progressive_profiling, country_label, campaign_id, lsmr, optin_type, countries, event_identifier2, contact_method, form, v, callback, button_label, ost_poi, form_name, query_string]
+
+# Created at 2018-10-09T20:19:59.014
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-09T20:19:59.025
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/webinars/a-guide-to-us-sales-tax/
+
+
+# Created at 2018-10-09T20:19:59.032
+Unexpected IOException with stream: Avaform version is-> 3.39.0
+
+
+# Created at 2018-10-09T20:19:59.038
+Unexpected IOException with stream: Putting the form in Test mode->
+
+
+# Created at 2018-10-09T20:19:59.049
+Unexpected IOException with stream: Avaform is in test mode now.
+
+
+# Created at 2018-10-09T20:20:00.118
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-10-09T20:20:00.183
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-10-09T20:20:00.233
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-10-09T20:20:00.325
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-10-09T20:20:00.374
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-10-09T20:20:00.427
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-10-09T20:20:00.476
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-10-09T20:20:00.557
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-10-09T20:20:05.171
+Unexpected IOException with stream: ------------Test Case15------------
+
+
+# Created at 2018-10-09T20:20:05.187
+Unexpected IOException with stream: https://www.vatlive.com/events/webinars/vat-automation-selecting-the-right-solution-2/
+
+
+# Created at 2018-10-09T20:20:05.233
+Unexpected IOException with stream: [container, template, goal_type, poi_menu, psoi_menu, lso, poi, event_identifier, offer, opp_subtype, progressive_profiling, country_label, campaign_id, lsmr, optin_type, countries, event_identifier2, contact_method, form, v, callback, button_label, ost_poi, form_name, query_string]
+
+# Created at 2018-10-09T20:20:05.239
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-09T20:20:05.247
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/webinars/vat-automation-selecting-the-right-solution-2/
+
+
+# Created at 2018-10-09T20:20:05.253
+Unexpected IOException with stream: Avaform version is-> 3.39.0
+
+
+# Created at 2018-10-09T20:20:05.257
+Unexpected IOException with stream: Putting the form in Test mode->
+
+
+# Created at 2018-10-09T20:20:05.265
+Unexpected IOException with stream: Avaform is in test mode now.
+
+
+# Created at 2018-10-09T20:20:06.331
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-10-09T20:20:06.406
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-10-09T20:20:06.456
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-10-09T20:20:06.551
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-10-09T20:20:06.599
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-10-09T20:20:06.656
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-10-09T20:20:06.707
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-10-09T20:20:06.792
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-10-09T20:20:12.132
+Unexpected IOException with stream: ------------Test Case16------------
+
+
+# Created at 2018-10-09T20:20:12.145
+Unexpected IOException with stream: https://www.vatlive.com/events/webinars/benchmark-your-vat-processes/
+
+
+# Created at 2018-10-09T20:20:12.191
+Unexpected IOException with stream: [container, template, goal_type, poi_menu, psoi_menu, lso, poi, event_identifier, offer, opp_subtype, progressive_profiling, country_label, campaign_id, lsmr, optin_type, countries, event_identifier2, contact_method, form, v, callback, button_label, ost_poi, form_name, query_string]
+
+# Created at 2018-10-09T20:20:12.198
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-09T20:20:12.207
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/webinars/benchmark-your-vat-processes/
+
+
+# Created at 2018-10-09T20:20:12.212
+Unexpected IOException with stream: Avaform version is-> 3.39.0
+
+
+# Created at 2018-10-09T20:20:12.218
+Unexpected IOException with stream: Putting the form in Test mode->
+
+
+# Created at 2018-10-09T20:20:12.227
+Unexpected IOException with stream: Avaform is in test mode now.
+
+
+# Created at 2018-10-09T20:20:13.296
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-10-09T20:20:13.381
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-10-09T20:20:13.444
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-10-09T20:20:13.540
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-10-09T20:20:13.589
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-10-09T20:20:13.642
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-10-09T20:20:13.693
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-10-09T20:20:13.778
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-10-09T20:20:18.628
+Unexpected IOException with stream: ------------Test Case17------------
+
+
+# Created at 2018-10-09T20:20:18.644
+Unexpected IOException with stream: https://www.vatlive.com/events/webinars/using-dedicated-software-to-reduce-costs-and-ensure-compliance/
+
+
+# Created at 2018-10-09T20:20:18.683
+Unexpected IOException with stream: [container, template, goal_type, poi_menu, psoi_menu, lso, poi, event_identifier, offer, opp_subtype, progressive_profiling, country_label, campaign_id, lsmr, optin_type, countries, event_identifier2, contact_method, form, v, callback, button_label, ost_poi, form_name, query_string]
+
+# Created at 2018-10-09T20:20:18.689
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-09T20:20:18.697
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/webinars/using-dedicated-software-to-reduce-costs-and-ensure-compliance/
+
+
+# Created at 2018-10-09T20:20:18.702
+Unexpected IOException with stream: Avaform version is-> 3.39.0
+
+
+# Created at 2018-10-09T20:20:18.707
+Unexpected IOException with stream: Putting the form in Test mode->
+
+
+# Created at 2018-10-09T20:20:18.715
+Unexpected IOException with stream: Avaform is in test mode now.
+
+
+# Created at 2018-10-09T20:20:19.778
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-10-09T20:20:19.857
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-10-09T20:20:19.911
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-10-09T20:20:20.003
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-10-09T20:20:20.053
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-10-09T20:20:20.104
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-10-09T20:20:20.153
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-10-09T20:20:20.235
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-10-09T20:20:26.004
+Unexpected IOException with stream: ------------Test Case18------------
+
+
+# Created at 2018-10-09T20:20:26.017
+Unexpected IOException with stream: https://www.vatlive.com/events/webinars/vat-automation-for-de-centralised-organisations/
+
+
+# Created at 2018-10-09T20:20:26.068
+Unexpected IOException with stream: [container, template, goal_type, poi_menu, psoi_menu, lso, poi, event_identifier, offer, opp_subtype, progressive_profiling, country_label, campaign_id, lsmr, optin_type, countries, event_identifier2, contact_method, form, v, callback, button_label, ost_poi, form_name, query_string]
+
+# Created at 2018-10-09T20:20:26.074
+Unexpected IOException with stream: 
+
+
+# Created at 2018-10-09T20:20:26.084
+Unexpected IOException with stream: Avaform exist on ->https://www.vatlive.com/events/webinars/vat-automation-for-de-centralised-organisations/
+
+
+# Created at 2018-10-09T20:20:26.090
+Unexpected IOException with stream: Avaform version is-> 3.39.0
+
+
+# Created at 2018-10-09T20:20:26.096
+Unexpected IOException with stream: Putting the form in Test mode->
+
+
+# Created at 2018-10-09T20:20:26.105
+Unexpected IOException with stream: Avaform is in test mode now.
+
+
+# Created at 2018-10-09T20:20:26.661
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-10-09T20:20:26.732
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-10-09T20:20:26.781
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-10-09T20:20:26.861
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-10-09T20:20:26.910
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-10-09T20:20:26.961
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-10-09T20:20:27.008
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-10-09T20:20:27.088
+Unexpected IOException with stream: Phone entered
+
+
