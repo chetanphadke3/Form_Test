@@ -1,0 +1,261 @@
+# Created at 2018-09-06T16:28:31.269
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2018-09-06T16:28:34.096
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/about-us/contact-us/
+
+
+# Created at 2018-09-06T16:28:34.263
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-09-06T16:28:34.389
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-09-06T16:28:34.447
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-09-06T16:28:34.547
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-09-06T16:28:34.606
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-09-06T16:28:34.668
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-09-06T16:28:34.729
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-09-06T16:28:34.824
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-09-06T16:28:42.065
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/about-us/get-started-vat-expert/
+
+
+# Created at 2018-09-06T16:28:42.131
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-09-06T16:28:42.228
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-09-06T16:28:42.295
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-09-06T16:28:42.416
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-09-06T16:28:42.486
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-09-06T16:28:42.552
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-09-06T16:28:42.614
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-09-06T16:28:42.721
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-09-06T16:28:47.557
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/about-us/newsletter/
+
+
+# Created at 2018-09-06T16:28:47.648
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-09-06T16:28:47.737
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-09-06T16:28:47.795
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-09-06T16:28:47.888
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-09-06T16:28:47.944
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-09-06T16:28:48.005
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-09-06T16:28:48.063
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-09-06T16:28:48.153
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-09-06T16:28:52.661
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/events/webinars/are-you-saf-t-ready/
+
+
+# Created at 2018-09-06T16:28:54.379
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-09-06T16:28:54.634
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-09-06T16:28:54.775
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-09-06T16:28:55.065
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-09-06T16:28:55.169
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-09-06T16:28:55.319
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-09-06T16:28:55.418
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-09-06T16:28:55.511
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-09-06T16:29:01.378
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/events/webinars/calculating-your-landed-cost/
+
+
+# Created at 2018-09-06T16:29:02.537
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-09-06T16:29:02.673
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-09-06T16:29:02.759
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-09-06T16:29:02.933
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-09-06T16:29:03.044
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-09-06T16:29:03.152
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-09-06T16:29:03.247
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-09-06T16:29:03.370
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-09-06T16:29:08.584
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/events/webinars/global-expansion-and-its-vat-implications/
+
+
+# Created at 2018-09-06T16:29:09.728
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-09-06T16:29:09.816
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-09-06T16:29:09.872
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-09-06T16:29:09.967
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-09-06T16:29:10.024
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-09-06T16:29:10.086
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-09-06T16:29:10.149
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-09-06T16:29:10.244
+Unexpected IOException with stream: Phone entered
+
+
+# Created at 2018-09-06T16:29:15.902
+Unexpected IOException with stream: avaform exist->https://www.vatlive.com/events/webinars/death-of-the-vat-return/
+
+
+# Created at 2018-09-06T16:29:17.577
+Unexpected IOException with stream: Name field got cleared
+
+
+# Created at 2018-09-06T16:29:17.740
+Unexpected IOException with stream: Name entered
+
+
+# Created at 2018-09-06T16:29:17.832
+Unexpected IOException with stream: Email field got cleared
+
+
+# Created at 2018-09-06T16:29:18.006
+Unexpected IOException with stream: Email entered
+
+
+# Created at 2018-09-06T16:29:18.103
+Unexpected IOException with stream: Company field got cleared
+
+
+# Created at 2018-09-06T16:29:18.216
+Unexpected IOException with stream: Company entered
+
+
+# Created at 2018-09-06T16:29:18.316
+Unexpected IOException with stream: Phone field got cleared
+
+
+# Created at 2018-09-06T16:29:18.494
+Unexpected IOException with stream: Phone entered
+
+

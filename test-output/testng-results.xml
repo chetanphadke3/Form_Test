@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8835" started-at="2018-09-05T10:54:42Z" finished-at="2018-09-05T10:54:51Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="8835" started-at="2018-09-05T10:54:42Z" finished-at="2018-09-05T10:54:51Z">
+      <class name="testcases.Test1">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:testcases.Test1@6f7fd0e6]" name="beforeTest" is-config="true" duration-ms="5787" started-at="2018-09-05T16:24:42Z" finished-at="2018-09-05T16:24:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="firstRun()[pri:0, instance:testcases.Test1@6f7fd0e6]" name="firstRun" duration-ms="3026" started-at="2018-09-05T16:24:48Z" finished-at="2018-09-05T16:24:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstRun -->
+      </class> <!-- testcases.Test1 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
